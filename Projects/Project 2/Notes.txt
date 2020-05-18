@@ -1,0 +1,3 @@
+Hidden Layer test:
+1. Layer size: (100, ) ; Accuracy: 88.3
+2. 

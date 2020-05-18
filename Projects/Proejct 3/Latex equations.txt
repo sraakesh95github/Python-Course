@@ -1,0 +1,2 @@
+Eqn1: $$I = I_s[e^{(Vq/nkT)} - 1]$$
+Eqn2: $$I_s[e^{(((V - IR)q)/nkT)} - 1]$$

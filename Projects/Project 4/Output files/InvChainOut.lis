@@ -1,0 +1,13 @@
+ ****** HSPICE -- L-2016.06-SP1 win64 (Aug 24 2016) ******                      
+  Copyright (c) 1986 - 2020 by Synopsys, Inc. All Rights Reserved.              
+  This software and the associated documentation are proprietary
+  to Synopsys, Inc. This software may only be used in accordance
+  with the terms and conditions of a written license agreement with
+  Synopsys, Inc. All other use, reproduction, or distribution of
+  this software is strictly prohibited.
+  Input File: C:\SR files\College\Subjects\Python\Class notes\PSpice\InvChain 2.
+  Command line options: C:\synopsys\Hspice_L-2016.06-SP1\WIN64\hspice.com -i C:\SR files\College\Subjects\Python\Class notes\PSpice\InvChain 2.sp -o C:\SR files\College\Subjects\Python\Class notes\PSpice\InvChainOut
+  lic: No 'set SNPSLMD_LICENSE_FILE or LM_LICENSE_FILE' in current environment' 
+  lic: Unable to checkout (hspice) 
+  lic:   
+ lic: total license checkout elapse time:        0.00(s)

@@ -1,0 +1,2 @@
+1. Should we assume the area (A) for all the layers to be the same as the area of the die
+2. 

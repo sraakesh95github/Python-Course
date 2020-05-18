@@ -1,0 +1,16 @@
+password="L!NUXpedora1234"
+username="rsures14"
+ip="129.219.27.80"
+address="/afs/asu.edu/users/r/s/u/rsures14/project4"
+
+cd "C:\SR files\College\Subjects\Python\Assignments\Projects\Project 4\Bash test"
+sshpass -p "$password" scp test.txt $username@$ip:$address
+
+Command:
+scp rsures14@129.219.27.80:/afs/asu.edu/users/r/s/u/rsures14/04182020/project4_1.py project4.py
+
+scp project4_mod2.py rsures14@129.219.27.80:/afs/asu.edu/users/r/s/u/rsures14/project4_2/project4_mod2.py
+
+cd "C:\SR files\College\Subjects\Python\Assignments\Projects\Project 4\Linux files\04182020"
+
+ssh rsures14@eecad14.eas.asu.edu

@@ -1,0 +1,11 @@
+1. Read the data in CSV to a dataframe
+
+2. Analyze the data for the 2 variables that satisfy the following conditions. Use a PCA (Principal Component Analysis):
+a. Most high correlation with each other
+b. High correlation with the variable which we are using for the prediction
+c. Plot the covariance matrix and find the ones that are dependent ones
+d. Create a pair plot
+e. Use the above observations to find the variable that forms the most significant part of the machine learning analysis.
+
+3. 
+

@@ -1,0 +1,2 @@
+1. Why is Kd guess not given in the args [line containing the leastsq() line#55]
+2. 

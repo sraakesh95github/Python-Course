@@ -1,0 +1,2 @@
+cd "C:\SR files\College\Subjects\Python\Assignments\Projects\Project 4\Linux files\04182020"
+scp project4_2file.py rsures14@129.219.27.80:/afs/asu.edu/users/r/s/u/rsures14/project4_2/project4_mod1.py
